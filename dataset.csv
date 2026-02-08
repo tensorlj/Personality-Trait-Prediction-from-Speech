@@ -1,0 +1,51 @@
+filename,transcription,ghot_score,acads_lite_score,classification
+Task44.m4a,"['saare', 'course', 'ipc', 'baithke,', 'poora', 'mid', 'sem', 'ka,', 'compre', 'tut', 'test', 'syllabus', 'pad', 'liya', 'hai.', 'ab', 'grade', 'jaayega,', 'a', 'ya', 'a-']",12,0,GHOT
+Task50.m4a,"['ipc', 'on', 'library', 'movie', 'dekhta', 'hai.', 'padhai', 'karta.', 'acads', 'light', 'le', 'rkha', 'isne.', 'course', 'av', 'minus', 'chal', 'rha', 'hai.']",4,5,ACADS LITE
+Task41.m4a,"['first', 'year', 'midsem,', 'compre,', 'tute', 'test,', 'light', 'baitha', 'tha', 'kyunki', 'election', 'ladne', 'the', 'press', 'gensec', 'ke.', 'ab', 'wo', 'gaya,', 'pata', 'kya', 'karega.']",4,5,ACADS LITE
+Task42.m4a,"['club', 'kaam', 'wajah', 'bilkul', 'padhai', 'upari', 'hai.', 'tute', 'test', 'jaaraya', 'hai.', 'aisa', 'chalta', 'cg', 'chuch', 'c', 'ya', 'c-', 'lagega.']",3,4,ACADS LITE
+Task 47.m4a,"['oss', 'and', 'bosomfest', 'is', 'for', 'enjoying.', 'there', 'will', 'be', 'continuous', 'studies', 'and', 'cg', 'will', 'also', 'improve', 'later.', 'but', 'fest', 'will', 'not', 'come', 'back.']",1,1,ACADS LITE
+Task49.m4a,"['in', 'tüt', 'test,', 'the', 'chat', 'copies', 'from', 'gpt.', 'if', 'you', 'keep', 'doing', 'this,', 'you', 'will', 'get', 'caught', 'cheating', 'and', 'the', 'accads', 'will', 'get', 'lightened', 'and', 'the', 'cg', 'will', 'be', 'low.']",2,5,ACADS LITE
+Task45.m4a,"['gym', 'chalte', 'hai.', 'phir', 'uske', 'baad', 'looters', 'yaar', 'phir', 'pe', 'khaana', 'khaane', 'chalenge.', 'uske', 'baad', 'aake', 'slides', 'padleenge.', 'tuit', 'test', 'jayega.']",2,2,ACADS LITE
+Task48.m4a,"['library', 'bilkul', 'padhai', 'karta,', 'sirf', 'baate', 'karta', 'tha', 'hai.', 'isliye', 'tude', 'test', 'marks', 'hai.', 'grade', 'ya', 'c', 'ya', 'c-', 'lakta', 'hai.']",2,5,ACADS LITE
+Task46.m4a,"['dcc', 'yaar', 'phir', 'ready', 'chalke', 'khaana', 'khaate', 'hai.', 'padhai', 'honay', 'rahi', 'hai.', 'patani', 'tut', 'test', 'kya', 'hoga.', 'mera', 'acads', 'hora', 'hai.', 'cg', 'chudri', 'hai.']",3,1,GHOT
+Task43.m4a,"['pura', 'din', 'controller', 'game', 'rahega', 'padhai', 'kaise', 'hogi?', 'saare', 'tude', 'test', 'chuch', 'jayenge.', 'c', 'ya', 'c-', 'jayega.']",1,7,ACADS LITE
+Task34.m4a,"['sirf', 'controller', 'laga', 'game', 'khilta', 'hai.', 'yaar', 'fir', 'anc', 'jaa', 'khaana', 'khata', 'hai.', 'yaar', 'poori', 'din', 'padhai', 'karta', 'test', 'liye.', 'iske', 'cg', 'hachi', 'iske', 'course', 'a', 'or', 'a-', 'haata', 'hai.']",6,4,GHOT
+Task36.m4a,"['bilkul', 'padhai', 'karta.', 'test', 'cheating', 'marks', 'liyaata', 'hai.', 'iska', 'patani', 'kaise,', 'grade', 'jaata', 'hai.', 'a', 'ya', 'a-']",5,2,GHOT
+Task37.m4a,"['controller', 'game', 'so', 'bilkul', 'padhai', 'kari.', 'tute', 'test', 'bekaar', 'grade', 'chuj', 'jayega,', 'cg', 'chuj', 'jayega.']",3,3,ACADS LITE
+Task40.m4a,"['pure', 'fest', 'mein', 'party', 'kari', 'hai.', 'bilkul', 'padhai', 'kari.', 'iski', 'wajah', 'cg', 'chuch', 'jayegi.', 'saare', 'course', 'mein', 'c', 'ya', 'c-', 'lagega.']",1,6,ACADS LITE
+Task33.m4a,"['audi', 'mein', 'movie', 'chalte', 'hai.', 'phir', 'ipc', 'course', 'slides', 'textbook', 'padh', 'lege.', 'test', 'achcha', 'chale', 'jayega.']",4,3,GHOT
+Task31.m4a,"['saara', 'syllabus', 'baitha', 'hai.', 'isne', 'pyq', 'liye.', 'compre', '4', 'dega.']",3,0,GHOT
+Task32.m4a,"['mujhe', 'full', 'marks', 'mile', 'kiuki', 'library', 'slides', 'notes', 'pad', 'the.', 'is', 'wajah', 'mere...']",3,0,GHOT
+Task38.m4a,"['puri', 'movie', 'dekhi,', 'but', 'fir', 'aaj', 'tute', 'test', '4', 'diya,', 'kyunki', 'pehle', 'slides', 'notes', 'padh', 'rakh', 'tha.', 'ab', 'midsum', 'compre', 'jayega.']",5,2,GHOT
+Task35.m4a,"['plays', 'in', 'the', 'gym', 'all', 'day', 'long.', 'or', 'works', 'in', 'clubs', 'or', 'departments.', ""doesn't"", 'study', 'at', 'all', 'and', 'his', 'cg', 'is', 'shabby.']",5,2,GHOT
+Task39.m4a,"['ankh', 'sting', 'monster', 'hai.', 'phir', 'all', 'nighter', 'marke', 'slides,', 'notes', 'textbooks', 'rattleenge.', 'test', 'ford', 'denge.']",7,1,GHOT
+Task22.m4a,"['looters', 'pe', 'game', 'hai.', 'padhai', 'rehi.', 'quizzes', 'tests', 'hai.', 'course', 'c', 'or', 'c-', 'lagega.', 'faida', 'padhai', 'karke.']",0,6,ACADS LITE
+Task23.m4a,"['open', 'book', 'exam', 'test', 'liye,', 's9', 'slides', 'printout', 'hai.', 'padha', 'nahi.', 'open', 'book', 'exam', 'jaayega.', 'boh', 'cheating', 'lunga,', 'grade', 'aayega.']",4,2,GHOT
+Task24.m4a,"['semester,', 'mid', 'sem', 'compre', 'mein', 'padega,', 'a', 'a-', 'lagega,', 'cg', 'chuch', 'jayegi.']",10,0,GHOT
+Task30.m4a,"[""let's"", 'go', 'karnot.', 'we', 'will', 'take', 'pandey', ""ji's"", 'sutta', 'and', 'then', 'go', 'library.', 'we', 'will', 'put', 'slides', 'and', 'notes.', 'test', 'syllabus', 'will', 'be', 'done.']",5,1,GHOT
+Task29.m4a,"['fm', 'string', 'aaya', 'tha,', 'library', 'me,', 'poori', 'kari,', 'slides', 'notes', 'padliye', 'mid-sam', 'four', 'diya.']",3,0,GHOT
+Task26.m4a,"['department', 'movie', 'dekhta', 'hai.', 'iske', 'test', 'marks', 'aate.', 'iska', 'course', 'c', 'or', 'c-', 'chal', 'hai.']",1,7,ACADS LITE
+Task28.m4a,"['puri', 'monster', 'p', 'on', 'lighter', 'marke', 'slides', 'notes', 'pad', 'lunga.', 'test', 'grade', 'a', 'or', 'a-', 'jaayega.']",7,1,GHOT
+Task27.m4a,"['mid', 'sem', 'notes', 'bhejde.', 'pura', 'semester', 'padhai', 'kari.', 'padhai', 'kari,', 'cg', 'chuch', 'jayegi.', 'course', 'grade', 'c', 'or', 'c-', 'lagega.']",6,4,GHOT
+Task25.m4a,"['spends', 'the', 'whole', 'day', 'campaigning', 'for', 'elections.', 'and', 'then', 'goes', 'the', 'anc', 'and', 'talks', 'the', 'seniors', 'at', 'night.', ""doesn't"", 'study', 'at', 'all', 'and', 'his', 'cg', 'is', 'sh**ty.']",3,3,ACADS LITE
+Task21.m4a,"['chal', 'ready', 'pe', 'kha', 'hai.', 'ipc', 'mein', 'bahot', 'padhai', 'hai.', 'test', 'nikahli', 'jaayega.', 'slides', 'textbook', 'got', 'hai.']",4,0,GHOT
+Task10.m4a,"['bhai,', 'oasis', 'bosom', 'pe', 'maze', 'karte', 'hai.', 'padhai', 'karta.', 'test', 'hote', 'raheinge,', 'lekin', 'fest', 'wapis', 'aayega.']",1,3,ACADS LITE
+Task9.m4a,"['bhai,', 'chal', 'nought', 'chalte', 'hai.', 'vaapas', 'aakar', 'dcc', 'chalenge', 'monster', 'piyege.', 'slides', 'laga', 'lege', 'jayega', 'tute.']",2,2,ACADS LITE
+Task16.m4a,"['all', 'rounder', 'nikhla.', 'gym', 'jata', 'hai.', 'clubs', 'baoth', 'sare.', 'anc', 'pe', 'jata', 'hai,', 'fm', 'pe', 'jata', 'hai,', 'looters', 'pe', 'jata', 'hai.', 'phir', 'iska', 'course', 'a,', 'a-,', 'ya', 'b', 'aa', 'rkha', 'hai.', 'iske', 'tud', 'test', 'acche', 'marks', 'hai.']",10,4,GHOT
+Task17.m4a,"['lives', 'with', 'club', 'vr', 'department', 'in', 'kanot.', 'has', 'c', 'or', 'c-', 'grade', 'in', 'every', 'course.', ""doesn't"", 'study', 'at', 'all', 'and', 'gets', 'less', 'marks', 'in', 'tude', 'test.']",3,5,ACADS LITE
+Task20.m4a,"['zyada', 'clubs', 'departments', 'mein', 'hai.', 'library', 'ipc', 'mein', 'poori', 'time', 'padhai', 'karta', 'hai.', 'but', 'phir', 'iska', 'grade', 'c', 'yaar', 'b-', 'range', 'mei', 'rehta', 'hai.']",3,3,ACADS LITE
+Task12.m4a,"['audi', 'mein', 'movie', 'jaa', 'skte', 'hai.', 'tude', 'test', 'liye,', 'bhot', 'zyada', 'padhai', 'karli', 'hai.', 'slide', 'bhi,', 'note', 'textbook', 'bhi.']",2,3,ACADS LITE
+Task14.m4a,"['last', 'time', 'i', 'went', 'give', 'm3', 'paper.', 'came', 'back', 'in', 'half', 'an', 'hour.', 'invisulator', 'was', 'also', 'asking', 'why', 'i', ""didn't"", 'study.', 'i', 'said', 'no', 'sir,', 'i', ""didn't"", 'study', 'at', 'all.', 'i', 'was', 'sitting', 'on', 'the', 'ankh', 'all', 'night', 'and', 'eating', 'golgappas.']",4,0,GHOT
+Task15.m4a,"['bhai,', 'poori', 'din', 'kanot', 'pe', 'sutta', 'phukhte', 'rehta', 'yaar', 'fir', 'ankh', 'pe', 'khaana', 'khaata', 'rehta', 'yaar', 'fir', 'gym', 'jata', 'rehta', 'batani', 'iske', 'itne', 'marks', 'kaise', 'saare', 'tud', 'test', 'full', 'marks', 'aata']",1,1,ACADS LITE
+Task13.m4a,"['klaas', 'kaun', 'jata', 'hai.', ""it's"", 'empty.', ""it's"", 'empty.', ""it's"", 'empty.', ""it's"", 'empty.']",0,0,ACADS LITE
+Task19.m4a,"['keeps', 'on', 'partying', 'with', 'club', 'and', 'department', 'people', 'at', 'oasis', 'bossam', 'all', 'the', 'time.', 'and', 'goes', 'connaught', 'and', 'blows', 'a', 'whistle.', 'but', 'still', 'gets', 'good', 'marks', 'in', 'lab', 'test,', 'tuit', 'test,', 'quiz,', 'mid', 'sem', 'and', 'compre.', 'and', 'his', 'grade', 'always', 'comes', 'a-.']",13,2,GHOT
+Task18.m4a,"['quizzes', 'time', 'padhta', 'samay', 'iska', 'grade', 'c', 'minus', 'hota', 'hai.', 'but', 'mid', 'sem', 'compre', 'nab', 'padhai', 'karta', 'marks', 'aata', 'hai.']",5,4,GHOT
+Task11.m4a,"['yaar,', 'course', 'mein', 'formulae', 'itne', 'hai.', 'test', 'furre', 'bana', 'jaane', 'padheinge,', 'varna', 'test', 'fail', 'jaayenge', 'grade', 'c', 'ya', 'c-', 'range', 'chale', 'jaayega.']",2,7,ACADS LITE
+Task7.m4a,"['anuj', 'vak', 'hai,', 'humari', 'wing', 'mein', 'bacha,', 'pada', 'lika', 'kuch.', 'pura', 'time', 'bus', 'campaigning,', 'election', 'wagaara', 'karta', 'rahe', 'kiya,', 'cg', 'uski', 'chudh', 'gayi,', 'padhai', 'hoti', 'and', 'midsum', 'comfrey', 'uska', 'light', 'gaya.', 'pura', 'din', 'pandesi', 'pe', 'baitha', 'hai,', 'monster', 'pite', 'sobe', 'sobe', 'bus', 'nahi.']",1,8,ACADS LITE
+Task8.m4a,"['in', 'our', 'college,', 'grading', 'is', 'very', 'bad.', 'no', 'matter', 'how', 'much', 'you', 'study,', 'you', ""don't"", 'get', 'anything', 'above', 'c.', 'b-', 'comes', 'from', 'b,', 'a-', 'has', 'never', 'come.']",4,2,GHOT
+Task3.m4a,"['aad', 'gym', 'gaya,', 'jiski', 'wajah', 'padhe', 'paya.']",0,1,ACADS LITE
+Task6.m4a,"['library', 'aa', 'tha.', 'parso', 'test', 'hai.', 'uski', 'padhai', 'payi.', 'khaana', 'kha', 'liya.']",2,0,GHOT
+Task4.m4a,"['bhai,', '15', 'days', 'bache', 'mid', 'sem', 'mein.', 'test', 'aah', 'rahe', 'hain.', 'mein', 'padhai', 'hon', 'pa', 'rahi', 'hai.', 'wataani', 'kya', 'karenge.']",5,0,GHOT
+Task5.m4a,"['election', 'time', 'gaya,', 'campaigning', 'me,', 'padhai', 'paye,', 'cg', 'chudh', 'gayi.']",1,6,ACADS LITE
+Task2.m4a,"['bhai,', 'ready', 'aasakta.', 'cp', 'lab', 'test', 'hai.', 'quizzes', 'tests', 'main', 'chud', 'hu.', 'ab', 'para', 'cg', 'gire', 'jaayegi.']",2,2,ACADS LITE
+Task1.m4a,"['ab', 'yaar', 'aaj', 'test', 'firsi', 'chudh', 'yaar.', 'padh', 'le', 'na', 'chahiye', 'tha', 'pandey', 'chane', 'jaga.']",1,3,ACADS LITE

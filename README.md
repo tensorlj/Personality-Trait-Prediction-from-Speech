@@ -1,2 +1,3 @@
 # Personality-Trait-Prediction-from-Speech
 Speech-to-Text and NLP Classification Project
+This project investigates multilingual personality classification from speech data using supervised learning techniques. A custom dataset comprising over 50 multilingual audio recordings was collected and transcribed using OpenAI’s Whisper model. The resulting transcripts were annotated with personality traits and represented using a Bag-of-Words–based feature extraction approach. A Logistic Regression classifier was trained and evaluated using multilingual embeddings, which enhanced robustness to spelling variations and out-of-vocabulary (OOV) terms across languages.
